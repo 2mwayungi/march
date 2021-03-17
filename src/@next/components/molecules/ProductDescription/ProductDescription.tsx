@@ -45,7 +45,7 @@ export const ProductDescription: React.FC<IProps> = ({
             setActiveTab(TABS.ATTRIBUTES);
           }}
         >
-          <FormattedMessage defaultMessage="  " />
+          <FormattedMessage defaultMessage="ATTRIBUTES" />
         </S.TabTitle>
       </S.Tabs>
       {activeTab === TABS.DESCRIPTION &&
