@@ -1,6 +1,6 @@
 {
-  "name": "Nopovo",
-  "description": "A GraphQL-powered, PWA, single-page storefront application for Nopovo",
+  "name": "saleor-storefront",
+  "description": "A GraphQL-powered, PWA, single-page storefront application for Saleor",
   "repository": "https://github.com/mirumee/saleor-storefront",
   "website": "http://getsaleor.com/",
   "logo": "https://mirumee.com/img/opensource_saleor.jpg",
